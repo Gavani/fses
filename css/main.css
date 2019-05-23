@@ -3373,4 +3373,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   .single-fact-text{
     width: 150px;
   }
+  .home-banner-content p{
+    margin-right: 35%;
+  }
 }
