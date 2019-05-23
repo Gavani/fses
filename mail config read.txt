@@ -1,0 +1,3 @@
+Also see on folder the file with name "mail.php"! Open it and edit 2nd link:
+- $to = 'youremailaddress@gmail.com';
+replace the youremailaddress@gmail.com with email address !
